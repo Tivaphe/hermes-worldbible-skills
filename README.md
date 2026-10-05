@@ -1,3 +1,5 @@
+![Bannière hermes-worldbible-skills : un livre ouvert dont les lignes dorées deviennent le plan d'architecture d'une tour](banner.png)
+
 # Hermes World Bible Skills
 
 Dix skills [agentskills.io](https://agentskills.io) pour [Hermes Agent](https://hermes-agent.nousresearch.com/)
