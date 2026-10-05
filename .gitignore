@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Artefacts générés par les skills.
+# Important : ne pas committer votre World Bible indexée ni votre manuscrit.
+.index/
+exports/
+*.docx
+*.epub
+*.pdf
+
+# Les sources Markdown des exemples restent suivies (elles ne sont pas concernées
+# par les motifs ci-dessus, qui ne visent que des dossiers/fichiers générés).
+
+# OS / éditeurs
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
